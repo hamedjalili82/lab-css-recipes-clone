@@ -22,3 +22,98 @@ body {
 
 /* STYLES */
 /* Write your CSS below */
+
+
+
+
+/*----------------------------------*/
+
+
+body, html {
+  height: 100%;  
+}
+
+hr {
+  width: 57%;
+}
+div.header {
+background-image: url("../images/apple-pie.jpg");
+height: 100%;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+position: relative;
+}
+
+h1 {
+text-align: center;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+color: white;
+font-size: 6rem;
+}
+
+.top {
+  margin: 3rem;
+  padding-left: 15rem;
+  padding-right: 15rem;
+  text-align: justify;
+  font-size: 1.4rem;
+}
+
+    /*------------*/
+
+div.img {
+    text-align: center;    
+ }
+
+ div.ingr {
+  text-align: left;
+  padding-left: 20em;
+ }
+ div.ingr h3 {
+  padding-bottom: 20px;
+  padding-right: 50px;
+  pad
+ }
+  
+ div.ingr ul {
+  font-size: 1.1rem;
+  padding-left: 22px;
+ }
+
+ div.ingr li {
+  text-decoration: dashed;
+ }
+
+ .img-2 {
+  text-align: center; 
+  padding-top: 3rem;
+ }
+
+  /*-----------*/
+
+ div.dire {
+  text-align: left;
+  padding-left: 20em;
+  padding-bottom: 10rem;
+ }
+ div.dire h3 {
+  padding-bottom: 20px;
+  padding-right: 50px;
+  pad
+ }
+  
+ div.dire ol {
+  font-size: 1.1rem;
+  padding-left: 22px;
+ }
+
+ div.dire li {
+   margin-right: 19rem;
+ }
+
+
+ 
